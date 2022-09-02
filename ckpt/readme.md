@@ -1,0 +1,1 @@
+This is the location for storing the model.pt checkpoint file.

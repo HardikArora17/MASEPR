@@ -1,0 +1,1 @@
+This is the location where the output files generated during training and evaluation phases of the model get saved.

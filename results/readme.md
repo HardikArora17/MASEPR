@@ -1,0 +1,1 @@
+This is the location where the the model stores the aspect-wise performance statistics post evaluation.
