@@ -30,7 +30,7 @@ Clone the github repo and follow the steps as mentioned below
     
 Install the requirements for our code
 
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 For our experimental needs we reconstucted the ASAP dataset. The reconstucted data files can be obtained by running the code below.
 
